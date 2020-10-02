@@ -1,0 +1,52 @@
+header {
+    display: flex;
+}
+
+img {
+    height: 70px;
+}
+
+.mag:hover {
+margin: solid white 2px;
+
+}
+
+h1 {
+    margin-bottom: 0px;
+    font-size: 24px;
+}
+h2{
+    font-size: 20px;
+}
+
+li{
+    font-size: 16px;
+}
+p,.li1,.li2,.li3,.li4{
+    font-size: 14px;
+}
+#texto {
+    margin-top: 0px;
+}
+
+h1, h2 {
+    color: red;
+
+}
+
+hr {
+    color: rgb(8, 240, 8);
+    background-color: rgb(8, 240, 8);
+    height: 3px;
+}
+
+footer{
+    background-color: rgb(8, 240, 8);
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+.autor{
+    font-size: 15px;
+}
